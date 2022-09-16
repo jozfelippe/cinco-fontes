@@ -1,56 +1,66 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Rampart+One&family=Roboto:wght@300&display=swap');
 
-body{
-    color: #212529;
-    background-color: #89b0ae;
+body{color: #212529;
+    background-color: #b3beff;
+
 }
 
-h1{
-    font-family: 'Anton', sans-serif;
+h1{font-family: 'Anton', sans-serif;
     font-size: 50px;
     text-align: center;
 }
 
-.serifa{ font-family: 'Cinzel', serif;
+.serifa{font-family: 'Cinzel', serif;
     font-size: 30px;
     text-align: center;
 
 }
 
-p.ser{ font-family:'Cinzel', serif;
+p.ser{font-family:'Cinzel', serif;
     font-size: 20px;
     text-align: center;
 
 }
 
-.normal{
+.normal{font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+p.nor{font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.artística{font-family: 'Rampart One', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+p.art{font-family: 'Rampart One', cursive;
+    font-size: 20px;
+    text-align: center;
 
 }
 
-p.nor{
+.cursiva{font-family: 'Great Vibes', cursiva;
+    font-size: 50px;
+    text-align: center;
+}
+
+p.cur{font-family: 'Great Vibes', cursiva;
+    font-size: 25px;
+    text-align: center;
+}
+
+.monoespaçada{font-family: 'Inconsolata', monospace;
+    font-size: 50;
+    text-align: center;
 
 }
 
-.artística{
-
-}
-
-p.art{
-
-}
-
-.cursiva{
-
-}
-
-p.cur{
-
-}
-
-.monoespaçada{
-
-}
-
-p.mon{
+p.mon{font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    text-align: center;
 
 }
