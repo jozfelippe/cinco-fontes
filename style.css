@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    color: #212529;
+    background-color: #89b0ae;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.serifa{ font-family: 'Cinzel', serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+p.ser{ font-family:'Cinzel', serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.normal{
+
+}
+
+p.nor{
+
+}
+
+.artística{
+
+}
+
+p.art{
+
+}
+
+.cursiva{
+
+}
+
+p.cur{
+
+}
+
+.monoespaçada{
+
+}
+
+p.mon{
+
+}
